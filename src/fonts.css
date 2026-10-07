@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 500;
+  src: url(/fonts/NotoSansKR-0.font) format('truetype');
+}
+
+@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/AnonymousPro-0.font) format('truetype');
+}
+
